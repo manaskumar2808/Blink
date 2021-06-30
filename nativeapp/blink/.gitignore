@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+node_modules
+.DS_Store
+=======
+node_modules/**/*
+assets
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+>>>>>>> 0679fac... commiting nativeapp
